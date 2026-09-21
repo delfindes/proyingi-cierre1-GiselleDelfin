@@ -1,9 +1,5 @@
 # Tres ideas de proyecto
 
-> Instrucción: sustituye lo que está entre corchetes y borra las líneas que empiezan con
-> "Instrucción:". Las tres ideas son tuyas, no las de tu equipo. En la siguiente sesión el
-> equipo decidirá con cuál se queda.
-
 **Autor:** [Giselle Delfin Fernandez]
 **Fecha:** [17/09/2026]
 
@@ -67,9 +63,6 @@ Una idea es viable para esta materia si cumple los cuatro criterios:
 
 ## Tabla de viabilidad
 
-> Instrucción: escribe Sí, No o Parcial en cada celda. Una idea con un "No" no está
-> descalificada: lo que se evalúa es que reconozcas el problema, no que las tres ideas
-> salgan perfectas.
 
 | Criterio                                                  | Idea 1 | Idea 2 | Idea 3 |
 | --------------------------------------------------------- | ------ | ------ | ------ |
